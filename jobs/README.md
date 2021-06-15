@@ -1,1 +1,1 @@
-# Scripts used by CICD pipeline
+# Jobs used by CICD
